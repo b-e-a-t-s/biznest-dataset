@@ -2,6 +2,7 @@ import os
 import json
 
 BASE_DIR = "utils/geojson"
+ASSIGNED_CITIES = ["Paranaque"]
 
 
 def load_all_amenities(base_dir):
@@ -93,7 +94,7 @@ def main():
     # load one big amenity list
     all_amenities = load_all_amenities(BASE_DIR)
 
-    for city in ["Paranaque"]:
+    for city in ASSIGNED_CITIES:
         city_path = os.path.join(BASE_DIR, city)
         if os.path.isdir(city_path):
             geojson_file = None
