@@ -1,0 +1,10 @@
+cafe
+courthouse
+fast_food
+fuel
+gambling
+marketplace
+pharmacy
+pub
+restaurant
+townhall

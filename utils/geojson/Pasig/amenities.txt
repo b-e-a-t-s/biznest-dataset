@@ -1,0 +1,12 @@
+bar
+cafe
+car_wash
+dentist
+fast_food
+fuel
+love_hotel
+marketplace
+parking
+pharmacy
+pub
+restaurant

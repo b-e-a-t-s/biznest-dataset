@@ -1,0 +1,9 @@
+bank
+bar
+cafe
+fast_food
+marketplace
+pharmacy
+rescue
+restaurant
+townhall

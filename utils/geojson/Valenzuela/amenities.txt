@@ -1,0 +1,7 @@
+bar
+cafe
+fast_food
+marketplace
+restaurant
+townhall
+veterinary

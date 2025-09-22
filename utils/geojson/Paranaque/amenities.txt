@@ -1,0 +1,15 @@
+bar
+cafe
+car_wash
+fast_food
+fountain
+fuel
+love_hotel
+marketplace
+pharmacy
+place_of_worship
+post_office
+pub
+restaurant
+townhall
+veterinary

@@ -1,0 +1,10 @@
+bar
+cafe
+fast_food
+love_hotel
+marketplace
+money_transfer
+pharmacy
+pub
+restaurant
+townhall

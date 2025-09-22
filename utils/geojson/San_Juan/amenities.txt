@@ -1,0 +1,12 @@
+bar
+bbq
+biergarten
+cafe
+fast_food
+marketplace
+pharmacy
+place_of_worship
+post_office
+pub
+restaurant
+townhall

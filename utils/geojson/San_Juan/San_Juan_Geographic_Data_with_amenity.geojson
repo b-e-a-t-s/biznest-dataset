@@ -1,0 +1,8843 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0250257,
+          14.6037899
+        ]
+      },
+      "properties": {
+        "osm_id": 7043457702,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Las Tres Marias Deliciosa Lasa\u00f1a",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0233299,
+          14.6045229
+        ]
+      },
+      "properties": {
+        "osm_id": 5982533396,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "AlJm eatery",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0526231,
+          14.6016131
+        ]
+      },
+      "properties": {
+        "osm_id": 8185964551,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "UCC. clock work.",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0489538,
+          14.6093454
+        ]
+      },
+      "properties": {
+        "osm_id": 2166656104,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Aling Banang's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.052155,
+          14.6028836
+        ]
+      },
+      "properties": {
+        "osm_id": 8754665385,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Pancake House",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0490693,
+          14.6010105
+        ]
+      },
+      "properties": {
+        "osm_id": 6146807026,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Kimpura",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0365674,
+          14.6029221
+        ]
+      },
+      "properties": {
+        "osm_id": 6310970774,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Eat Fresh",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0427066,
+          14.6051985
+        ]
+      },
+      "properties": {
+        "osm_id": 2597847480,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "B&T Mexican Kitchen",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0281667,
+          14.5954122
+        ]
+      },
+      "properties": {
+        "osm_id": 8177948113,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Angel's Burger",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0292074,
+          14.609305
+        ]
+      },
+      "properties": {
+        "osm_id": 8295568004,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Andok's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0297301,
+          14.5981837
+        ]
+      },
+      "properties": {
+        "osm_id": 12247594227,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Big Man Chibugan",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0283102,
+          14.5989526
+        ]
+      },
+      "properties": {
+        "osm_id": 12247578837,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Chuan Kee Plus",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0277375,
+          14.608273
+        ]
+      },
+      "properties": {
+        "osm_id": 5904547156,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "BUNSO Videoke Bar",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.052842,
+          14.6045622
+        ]
+      },
+      "properties": {
+        "osm_id": 8923094178,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Feta",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0542874,
+          14.6016421
+        ]
+      },
+      "properties": {
+        "osm_id": 255071899,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Petra Restaurant",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0521868,
+          14.6028131
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971700,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Cowrie Grill",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0490983,
+          14.6018334
+        ]
+      },
+      "properties": {
+        "osm_id": 12278110578,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Mango Tree Cafe",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0471475,
+          14.6024353
+        ]
+      },
+      "properties": {
+        "osm_id": 4177505988,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Razon's of Guagua",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0493334,
+          14.6007955
+        ]
+      },
+      "properties": {
+        "osm_id": 6141458897,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Manam",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0527264,
+          14.6027436
+        ]
+      },
+      "properties": {
+        "osm_id": 4535189089,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Dohtonbori",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0520477,
+          14.6027331
+        ]
+      },
+      "properties": {
+        "osm_id": 11193099108,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "TuanTuan",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0510414,
+          14.601548
+        ]
+      },
+      "properties": {
+        "osm_id": 11075068408,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Tim Hortons",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0519434,
+          14.6021227
+        ]
+      },
+      "properties": {
+        "osm_id": 1947182146,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Wafu",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0477871,
+          14.6025565
+        ]
+      },
+      "properties": {
+        "osm_id": 5326984213,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Go Salads!",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0466349,
+          14.6022391
+        ]
+      },
+      "properties": {
+        "osm_id": 13061391745,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Dunkin'",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.052909,
+          14.6023757
+        ]
+      },
+      "properties": {
+        "osm_id": 11568483170,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Ricksha",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0487796,
+          14.6014654
+        ]
+      },
+      "properties": {
+        "osm_id": 13072128174,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "BaristArt Coffee",
+        "opening_hours": "10:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0491756,
+          14.6018085
+        ]
+      },
+      "properties": {
+        "osm_id": 12278110576,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Kettle",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0488035,
+          14.6018927
+        ]
+      },
+      "properties": {
+        "osm_id": 12278142780,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Tung Lok Seafood",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.047339,
+          14.6007416
+        ]
+      },
+      "properties": {
+        "osm_id": 12243647034,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Souper Xin Jiang",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0423083,
+          14.6047278
+        ]
+      },
+      "properties": {
+        "osm_id": 5529577341,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "McDonald's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0372031,
+          14.5968937
+        ]
+      },
+      "properties": {
+        "osm_id": 13008651171,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Tripod's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0378193,
+          14.5978429
+        ]
+      },
+      "properties": {
+        "osm_id": 7019409271,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Varra",
+        "opening_hours": "Mo off; Tu-Su 17:00-02:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0227491,
+          14.6045984
+        ]
+      },
+      "properties": {
+        "osm_id": 4907186168,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Andok's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0486782,
+          14.6015068
+        ]
+      },
+      "properties": {
+        "osm_id": 12278144371,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Tsokolateria",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0490333,
+          14.6013854
+        ]
+      },
+      "properties": {
+        "osm_id": 12243851910,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Cinnabon",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0526652,
+          14.6027046
+        ]
+      },
+      "properties": {
+        "osm_id": 4535177091,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Carousel Creamery",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0557965,
+          14.6010784
+        ]
+      },
+      "properties": {
+        "osm_id": 10160930107,
+        "osm_type": "nodes",
+        "amenity": "marketplace",
+        "tourism": null,
+        "beds": null,
+        "name": "Northeast Greenhills Sunday Market",
+        "opening_hours": "Su 06:00-12:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0507913,
+          14.6032467
+        ]
+      },
+      "properties": {
+        "osm_id": 919492168,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Choi Garden",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0493471,
+          14.6010703
+        ]
+      },
+      "properties": {
+        "osm_id": 12998732243,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Santouka",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.047706,
+          14.6025611
+        ]
+      },
+      "properties": {
+        "osm_id": 5326959059,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Mary Grace",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0478526,
+          14.6023527
+        ]
+      },
+      "properties": {
+        "osm_id": 11518590473,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Ph\u1edf H\u00f2a",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0336163,
+          14.6043066
+        ]
+      },
+      "properties": {
+        "osm_id": 6240872235,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "B\u00e1nh M\u00ec Kitchen",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0376975,
+          14.5969894
+        ]
+      },
+      "properties": {
+        "osm_id": 8768293009,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Bok Korean Fried Chicken",
+        "opening_hours": "11:00-03:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0376265,
+          14.5972299
+        ]
+      },
+      "properties": {
+        "osm_id": 12500329630,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Eraya",
+        "opening_hours": "Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-02:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0374248,
+          14.597783
+        ]
+      },
+      "properties": {
+        "osm_id": 5367559191,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Samgyupsalamat",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.038595,
+          14.5963233
+        ]
+      },
+      "properties": {
+        "osm_id": 11750288450,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "a. m. espresso",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0382529,
+          14.5963337
+        ]
+      },
+      "properties": {
+        "osm_id": 11478285812,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Seven Plates",
+        "opening_hours": "Mo-Su,PH 10:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0408034,
+          14.5948652
+        ]
+      },
+      "properties": {
+        "osm_id": 11613052342,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Korea Garden",
+        "opening_hours": "10:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0377227,
+          14.5971868
+        ]
+      },
+      "properties": {
+        "osm_id": 8382104859,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Yobe",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0493544,
+          14.6007626
+        ]
+      },
+      "properties": {
+        "osm_id": 6141458898,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Ooma",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.049526,
+          14.6010466
+        ]
+      },
+      "properties": {
+        "osm_id": 1270332369,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Sbarro",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0360977,
+          14.6006176
+        ]
+      },
+      "properties": {
+        "osm_id": 4246997692,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Oyasumi Ramen",
+        "opening_hours": "11:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0510255,
+          14.6033433
+        ]
+      },
+      "properties": {
+        "osm_id": 1271279000,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Cibo",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0511595,
+          14.6025972
+        ]
+      },
+      "properties": {
+        "osm_id": 1270332418,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Tropical Hut",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0504373,
+          14.6027895
+        ]
+      },
+      "properties": {
+        "osm_id": 393731689,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "007",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0237169,
+          14.6079033
+        ]
+      },
+      "properties": {
+        "osm_id": 12537606591,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Big Bro Milk Tea",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0244744,
+          14.6074897
+        ]
+      },
+      "properties": {
+        "osm_id": 12537606588,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Kambal Pandesal",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0258331,
+          14.6070042
+        ]
+      },
+      "properties": {
+        "osm_id": 7011344453,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Pansit ng taga Malabon",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0334682,
+          14.6045279
+        ]
+      },
+      "properties": {
+        "osm_id": 6239553413,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Hanamaruken Ramen",
+        "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-23:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0222638,
+          14.6045374
+        ]
+      },
+      "properties": {
+        "osm_id": 5994491131,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0264092,
+          14.6072156
+        ]
+      },
+      "properties": {
+        "osm_id": 6308242056,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Bacolod Lapaz Batchoy",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0228399,
+          14.605889
+        ]
+      },
+      "properties": {
+        "osm_id": 4907186176,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Aling Lulu's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0334522,
+          14.6045599
+        ]
+      },
+      "properties": {
+        "osm_id": 6239553378,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Hugo Grillery",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0362882,
+          14.5935505
+        ]
+      },
+      "properties": {
+        "osm_id": 13140536195,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Clucked Out",
+        "opening_hours": "Mo-Sa 10:00+; Su off",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0510067,
+          14.6033925
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971704,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Isdang Pulo",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0382589,
+          14.5962921
+        ]
+      },
+      "properties": {
+        "osm_id": 12140944465,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Shari Shari",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0489024,
+          14.6019133
+        ]
+      },
+      "properties": {
+        "osm_id": 12278110579,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Yayoi",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0477625,
+          14.602606
+        ]
+      },
+      "properties": {
+        "osm_id": 5326982602,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "B\u00e1nh M\u00ec Kitchen",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0398182,
+          14.5952951
+        ]
+      },
+      "properties": {
+        "osm_id": 12724986676,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Menya Kokoro",
+        "opening_hours": "10:00-22:30",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0376238,
+          14.5971183
+        ]
+      },
+      "properties": {
+        "osm_id": 12229178660,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Abuela Cantina",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.045501,
+          14.5981244
+        ]
+      },
+      "properties": {
+        "osm_id": 11951484383,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Pocofino",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0384483,
+          14.598855
+        ]
+      },
+      "properties": {
+        "osm_id": 3635012757,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Calder\u00f3n",
+        "opening_hours": "11:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0383468,
+          14.5962951
+        ]
+      },
+      "properties": {
+        "osm_id": 11750265656,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "Raion",
+        "opening_hours": "Tu-Su 10:00-19:00 open \"Coffee\"; Tu-Su 18:00-01:00 open \"Cocktails\"",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0372648,
+          14.5982635
+        ]
+      },
+      "properties": {
+        "osm_id": 7387988259,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Sharetea",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.040649,
+          14.5975319
+        ]
+      },
+      "properties": {
+        "osm_id": 3677543618,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Yuujin",
+        "opening_hours": "11:00-15:00,17:30-21:30",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0376653,
+          14.5975438
+        ]
+      },
+      "properties": {
+        "osm_id": 10103141522,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Fari\u00f1as Ilocos Empanada",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.034176,
+          14.6068464
+        ]
+      },
+      "properties": {
+        "osm_id": 7022847386,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Yi Fant",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0337584,
+          14.6046015
+        ]
+      },
+      "properties": {
+        "osm_id": 6498256262,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Pancake House",
+        "opening_hours": "07:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0341613,
+          14.5980824
+        ]
+      },
+      "properties": {
+        "osm_id": 6011498239,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Nena Tapsilogan",
+        "opening_hours": "Mo-Su 17:00-02:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0402096,
+          14.6071971
+        ]
+      },
+      "properties": {
+        "osm_id": 1444105973,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Secret Fresh",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0459421,
+          14.6028258
+        ]
+      },
+      "properties": {
+        "osm_id": 1445182143,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Chic-Boy",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0335061,
+          14.6047658
+        ]
+      },
+      "properties": {
+        "osm_id": 12920873002,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "A1 Family Shabu Shabu",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.038407,
+          14.5983715
+        ]
+      },
+      "properties": {
+        "osm_id": 12655280697,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Maki Haus",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.038413,
+          14.5963715
+        ]
+      },
+      "properties": {
+        "osm_id": 12140944467,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Kaokee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0396858,
+          14.5957488
+        ]
+      },
+      "properties": {
+        "osm_id": 12740965186,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Mabuhay Craft Coffee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0384008,
+          14.5984023
+        ]
+      },
+      "properties": {
+        "osm_id": 5405003868,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Ling Nam",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0405501,
+          14.5947732
+        ]
+      },
+      "properties": {
+        "osm_id": 11613052343,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Organico",
+        "opening_hours": "Mo-Th 07:00-21:30; Fr-Su 07:00-22:30",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0396472,
+          14.5958041
+        ]
+      },
+      "properties": {
+        "osm_id": 11941578033,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Bun Run",
+        "opening_hours": "06:00-24:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0379471,
+          14.5969615
+        ]
+      },
+      "properties": {
+        "osm_id": 11914548635,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Bulalo World",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0384633,
+          14.5963016
+        ]
+      },
+      "properties": {
+        "osm_id": 11750265657,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Bun App\u00e9tit",
+        "opening_hours": "11:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0375496,
+          14.5978257
+        ]
+      },
+      "properties": {
+        "osm_id": 3610397235,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Nathaniel's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0377628,
+          14.5984461
+        ]
+      },
+      "properties": {
+        "osm_id": 9892603919,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Gianetto Pizzeria",
+        "opening_hours": "Tu-Su 12:00-20:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0413903,
+          14.5972356
+        ]
+      },
+      "properties": {
+        "osm_id": 1682598416,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "The Century",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0406875,
+          14.5948446
+        ]
+      },
+      "properties": {
+        "osm_id": 11613126657,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Bamb\u016b",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0382019,
+          14.5983316
+        ]
+      },
+      "properties": {
+        "osm_id": 11296893633,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Uniku",
+        "opening_hours": "Mo-Fr 09:30-21:30; Sa-Su 10:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0460154,
+          14.598204
+        ]
+      },
+      "properties": {
+        "osm_id": 3111387702,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Pancake House",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0463797,
+          14.5978907
+        ]
+      },
+      "properties": {
+        "osm_id": 3111387704,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Tapa King",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0355166,
+          14.5949462
+        ]
+      },
+      "properties": {
+        "osm_id": 10913173335,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Pizzulu",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0385341,
+          14.597207
+        ]
+      },
+      "properties": {
+        "osm_id": 10547881685,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "My Thai Kitchen",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0396173,
+          14.597324
+        ]
+      },
+      "properties": {
+        "osm_id": 4031006659,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Starbucks",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.039599,
+          14.5972984
+        ]
+      },
+      "properties": {
+        "osm_id": 6015391418,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Romantic Baboy",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0379487,
+          14.5989124
+        ]
+      },
+      "properties": {
+        "osm_id": 4925628929,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Laobeijing",
+        "opening_hours": "07:30-22:30",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0380571,
+          14.5995757
+        ]
+      },
+      "properties": {
+        "osm_id": 8904587845,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Tra Vinh",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0383417,
+          14.5988109
+        ]
+      },
+      "properties": {
+        "osm_id": 12174494105,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Angus Pares",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0377445,
+          14.5978949
+        ]
+      },
+      "properties": {
+        "osm_id": 3610397239,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Pegi Waffles",
+        "opening_hours": "10:00-19:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0404367,
+          14.5972249
+        ]
+      },
+      "properties": {
+        "osm_id": 12870106289,
+        "osm_type": "nodes",
+        "amenity": "pub",
+        "tourism": null,
+        "beds": null,
+        "name": "Kauri Taproom",
+        "opening_hours": "18:00-02:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.039135,
+          14.5968683
+        ]
+      },
+      "properties": {
+        "osm_id": 13061514200,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "The House of Dym Sun",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0331322,
+          14.5976709
+        ]
+      },
+      "properties": {
+        "osm_id": 4185386386,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Dada's Fried Itik",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0246979,
+          14.5988942
+        ]
+      },
+      "properties": {
+        "osm_id": 8317663135,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Jack's Corner",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0401428,
+          14.6072382
+        ]
+      },
+      "properties": {
+        "osm_id": 1444105978,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Mao Jia Hunan Cuisine",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0386488,
+          14.5963508
+        ]
+      },
+      "properties": {
+        "osm_id": 12140944463,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Papeo",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0526232,
+          14.6028069
+        ]
+      },
+      "properties": {
+        "osm_id": 8754665384,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Salad Stop",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0448892,
+          14.6027697
+        ]
+      },
+      "properties": {
+        "osm_id": 1108695817,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Segafredo",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0412306,
+          14.597538
+        ]
+      },
+      "properties": {
+        "osm_id": 1682598400,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Tokyo Bubble Tea",
+        "opening_hours": "10:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0506226,
+          14.6028779
+        ]
+      },
+      "properties": {
+        "osm_id": 1271279001,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Gloria Jean's Coffee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0511914,
+          14.6037757
+        ]
+      },
+      "properties": {
+        "osm_id": 7023844521,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Kanto Freestyle",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0371455,
+          14.5966508
+        ]
+      },
+      "properties": {
+        "osm_id": 9331091030,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "L\u00e1grima",
+        "opening_hours": "11:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0327547,
+          14.6042777
+        ]
+      },
+      "properties": {
+        "osm_id": 6239553063,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Burger Machine",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0361088,
+          14.6005839
+        ]
+      },
+      "properties": {
+        "osm_id": 11919383034,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Fat Daddy",
+        "opening_hours": "11:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0324643,
+          14.605397
+        ]
+      },
+      "properties": {
+        "osm_id": 11462331162,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Cooper's Coffee Haus",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0334355,
+          14.604587
+        ]
+      },
+      "properties": {
+        "osm_id": 6239553374,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Kaya",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0339657,
+          14.6043034
+        ]
+      },
+      "properties": {
+        "osm_id": 12920954545,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Sicilian Roast",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0376411,
+          14.5971288
+        ]
+      },
+      "properties": {
+        "osm_id": 12229260428,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Hainan Guys & Friends",
+        "opening_hours": "11:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0509658,
+          14.6026984
+        ]
+      },
+      "properties": {
+        "osm_id": 1270332380,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Cafe France",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0479637,
+          14.6014429
+        ]
+      },
+      "properties": {
+        "osm_id": 5648564721,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Blue Posts Boiling Crabs and Shrimps",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.046652,
+          14.6022629
+        ]
+      },
+      "properties": {
+        "osm_id": 13061391743,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "KFC",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0398377,
+          14.5943546
+        ]
+      },
+      "properties": {
+        "osm_id": 4539132932,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0398541,
+          14.5953838
+        ]
+      },
+      "properties": {
+        "osm_id": 12740965185,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "Gaea",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0492547,
+          14.6010646
+        ]
+      },
+      "properties": {
+        "osm_id": 12243621271,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Locavore",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0412249,
+          14.5929125
+        ]
+      },
+      "properties": {
+        "osm_id": 8911345746,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Caf\u00e9 Mabini",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0510797,
+          14.6015975
+        ]
+      },
+      "properties": {
+        "osm_id": 11075068409,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Max's Restaurant",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0512942,
+          14.6034543
+        ]
+      },
+      "properties": {
+        "osm_id": 1271278990,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.05038,
+          14.6034313
+        ]
+      },
+      "properties": {
+        "osm_id": 1271278995,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Papa John's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0403705,
+          14.6070747
+        ]
+      },
+      "properties": {
+        "osm_id": 1444105992,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Charlie's Grind and Grill",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0231678,
+          14.6052901
+        ]
+      },
+      "properties": {
+        "osm_id": 1303029948,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Mang Inasal",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0517187,
+          14.6025575
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971713,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Tong Yang",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0522996,
+          14.6036337
+        ]
+      },
+      "properties": {
+        "osm_id": 393732207,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "C3 Events",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0375836,
+          14.5971051
+        ]
+      },
+      "properties": {
+        "osm_id": 4693597206,
+        "osm_type": "nodes",
+        "amenity": "pub",
+        "tourism": null,
+        "beds": null,
+        "name": "Tori Tori",
+        "opening_hours": "11:00-24:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0252816,
+          14.6104369
+        ]
+      },
+      "properties": {
+        "osm_id": 5904547171,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "Hennesy KTV Bar",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0222002,
+          14.6094945
+        ]
+      },
+      "properties": {
+        "osm_id": 5994544616,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Ramba's Eatery",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0235492,
+          14.6098426
+        ]
+      },
+      "properties": {
+        "osm_id": 5994544629,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Aling Banang Eatery",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0478514,
+          14.6090999
+        ]
+      },
+      "properties": {
+        "osm_id": 5769547391,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Potato Corner",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0516481,
+          14.6023104
+        ]
+      },
+      "properties": {
+        "osm_id": 10203040311,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Dot Coffee",
+        "opening_hours": "Mo-Su 07:00-23:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0511912,
+          14.6021256
+        ]
+      },
+      "properties": {
+        "osm_id": 4916307410,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Tita Paring Suman Latik",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0492971,
+          14.6017178
+        ]
+      },
+      "properties": {
+        "osm_id": 3256854936,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Luk Yuen",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0492385,
+          14.6021307
+        ]
+      },
+      "properties": {
+        "osm_id": 1348751803,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Pancake House",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.049327,
+          14.6020625
+        ]
+      },
+      "properties": {
+        "osm_id": 1348756680,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Phoa",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0494829,
+          14.6026518
+        ]
+      },
+      "properties": {
+        "osm_id": 7023844522,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "House of Lasagna",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0509194,
+          14.6026328
+        ]
+      },
+      "properties": {
+        "osm_id": 1270332360,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Pasto",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0509106,
+          14.6027386
+        ]
+      },
+      "properties": {
+        "osm_id": 541070652,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Starbucks",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0516659,
+          14.602694
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971710,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Sibyullee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0518732,
+          14.6026039
+        ]
+      },
+      "properties": {
+        "osm_id": 3672600501,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "8 Cuts Burger Blends",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0516421,
+          14.6030026
+        ]
+      },
+      "properties": {
+        "osm_id": 1270332414,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Starbucks",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0516303,
+          14.6032449
+        ]
+      },
+      "properties": {
+        "osm_id": 3672600499,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Happy Lemon",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0518649,
+          14.6030357
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971715,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Via Mare",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0519662,
+          14.6033343
+        ]
+      },
+      "properties": {
+        "osm_id": 5097327292,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Taione",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0508687,
+          14.6032786
+        ]
+      },
+      "properties": {
+        "osm_id": 1271278993,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Banana Leaf",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0509471,
+          14.603311
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971716,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "J. Co Donuts & Coffee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0508878,
+          14.6033431
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971697,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "BBQ Chicken",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0511039,
+          14.6033757
+        ]
+      },
+      "properties": {
+        "osm_id": 919492167,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Tender Bob's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0510811,
+          14.6034234
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971698,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Blu Frog",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0514192,
+          14.6034252
+        ]
+      },
+      "properties": {
+        "osm_id": 1270332398,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Elait & Overdoughs",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0513661,
+          14.603484
+        ]
+      },
+      "properties": {
+        "osm_id": 1271279004,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Arya",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0512124,
+          14.6034781
+        ]
+      },
+      "properties": {
+        "osm_id": 2394631551,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Gerry's Grill",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0330436,
+          14.6077786
+        ]
+      },
+      "properties": {
+        "osm_id": 4923205721,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Cafe Ysabel",
+        "opening_hours": "Mo-Th, Su 11:00-14:00, 16:00-22:00; Fr, Sa 11:00-14:00, 16:00-23:00; Su 11:00-14:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0273413,
+          14.6023808
+        ]
+      },
+      "properties": {
+        "osm_id": 5770934827,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Conerbricks Barbeque House",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0257148,
+          14.6070795
+        ]
+      },
+      "properties": {
+        "osm_id": 5285016821,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Golden Chicken House",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0262836,
+          14.6071296
+        ]
+      },
+      "properties": {
+        "osm_id": 4900810622,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Pares",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0278167,
+          14.6080371
+        ]
+      },
+      "properties": {
+        "osm_id": 5903386285,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "Maligamgam KTV",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0289272,
+          14.6091086
+        ]
+      },
+      "properties": {
+        "osm_id": 4719607985,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Jasper Store and Eatery",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0288583,
+          14.6090399
+        ]
+      },
+      "properties": {
+        "osm_id": 4719607987,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0292913,
+          14.6091381
+        ]
+      },
+      "properties": {
+        "osm_id": 4719609346,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Aling Banang",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0294288,
+          14.6092562
+        ]
+      },
+      "properties": {
+        "osm_id": 4719609342,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0290377,
+          14.6091744
+        ]
+      },
+      "properties": {
+        "osm_id": 4719607982,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Imba Imbang Kainan",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.025843,
+          14.6106369
+        ]
+      },
+      "properties": {
+        "osm_id": 5904547172,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "BUNSO KTV Bar",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0300265,
+          14.6097925
+        ]
+      },
+      "properties": {
+        "osm_id": 8904299690,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Burger Machine",
+        "opening_hours": "24/7",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0295018,
+          14.6095816
+        ]
+      },
+      "properties": {
+        "osm_id": 4719607958,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "808 Grill",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0415281,
+          14.6054694
+        ]
+      },
+      "properties": {
+        "osm_id": 8761479506,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Muhan Samgyupsal",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0477215,
+          14.6015844
+        ]
+      },
+      "properties": {
+        "osm_id": 4792907850,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Kimono Ken",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0471995,
+          14.6018364
+        ]
+      },
+      "properties": {
+        "osm_id": 1477473156,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "House of Wagyu",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0470862,
+          14.6023208
+        ]
+      },
+      "properties": {
+        "osm_id": 9906827456,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Omakase",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0470643,
+          14.6023087
+        ]
+      },
+      "properties": {
+        "osm_id": 4178281054,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Sunmoon Seafood House",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0439456,
+          14.6042127
+        ]
+      },
+      "properties": {
+        "osm_id": 357727774,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Burger King",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0418743,
+          14.6046512
+        ]
+      },
+      "properties": {
+        "osm_id": 9069311445,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "General's Lechon",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0418775,
+          14.6046478
+        ]
+      },
+      "properties": {
+        "osm_id": 8757739461,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "General's Lechon",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0416026,
+          14.6054117
+        ]
+      },
+      "properties": {
+        "osm_id": 8761479507,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Shinjuku",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0427578,
+          14.605215
+        ]
+      },
+      "properties": {
+        "osm_id": 11193099105,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Masuki",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0393954,
+          14.6025423
+        ]
+      },
+      "properties": {
+        "osm_id": 9372713533,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Four50 Caf\u00e9",
+        "opening_hours": "Tu-Th 10:00-19:00;Fr-Su 10:00-22:00;PH off",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0361152,
+          14.6020832
+        ]
+      },
+      "properties": {
+        "osm_id": 8678141463,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Barbeque Shack",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0342191,
+          14.6023023
+        ]
+      },
+      "properties": {
+        "osm_id": 3498323963,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Wu Xiang House of Chicken",
+        "opening_hours": "Mo-Sa 10:00-22:00, Su10:00-16:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0382649,
+          14.6030271
+        ]
+      },
+      "properties": {
+        "osm_id": 7165366823,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0384143,
+          14.6032313
+        ]
+      },
+      "properties": {
+        "osm_id": 5555472345,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Asian Flavors",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0384943,
+          14.6034172
+        ]
+      },
+      "properties": {
+        "osm_id": 7165366822,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0336498,
+          14.6042885
+        ]
+      },
+      "properties": {
+        "osm_id": 6240872233,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Sunrise Buckets",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0337669,
+          14.6043209
+        ]
+      },
+      "properties": {
+        "osm_id": 7171313748,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Scout's Honor",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0341897,
+          14.6042876
+        ]
+      },
+      "properties": {
+        "osm_id": 6239553377,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Press Cafe",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0386337,
+          14.6039765
+        ]
+      },
+      "properties": {
+        "osm_id": 5556276966,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Cops and Robbers",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0378579,
+          14.6036212
+        ]
+      },
+      "properties": {
+        "osm_id": 7165366826,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0367282,
+          14.6050204
+        ]
+      },
+      "properties": {
+        "osm_id": 5767006053,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Edm's Canteen",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0235744,
+          14.6031276
+        ]
+      },
+      "properties": {
+        "osm_id": 8317521666,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Jho and JR Canteen",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.019799,
+          14.6025773
+        ]
+      },
+      "properties": {
+        "osm_id": 255059979,
+        "osm_type": "nodes",
+        "amenity": "townhall",
+        "tourism": null,
+        "beds": null,
+        "name": "Progreso Barangay Hall",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0208222,
+          14.6025767
+        ]
+      },
+      "properties": {
+        "osm_id": 7022813100,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "JBLR Food Hun",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0208027,
+          14.6025511
+        ]
+      },
+      "properties": {
+        "osm_id": 7022813099,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0212806,
+          14.6031922
+        ]
+      },
+      "properties": {
+        "osm_id": 4458795301,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Aling Banang",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0229602,
+          14.60596
+        ]
+      },
+      "properties": {
+        "osm_id": 4907186173,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Aling Banang's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0229071,
+          14.6059258
+        ]
+      },
+      "properties": {
+        "osm_id": 4907186174,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Nolasco's Eatery",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0228735,
+          14.6059035
+        ]
+      },
+      "properties": {
+        "osm_id": 4907186175,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Benson's BBQ",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0236497,
+          14.6060329
+        ]
+      },
+      "properties": {
+        "osm_id": 4792499780,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Dunkin' Donuts",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0247227,
+          14.6065544
+        ]
+      },
+      "properties": {
+        "osm_id": 7010440994,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.023403,
+          14.6042822
+        ]
+      },
+      "properties": {
+        "osm_id": 5932954533,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "king am",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0230264,
+          14.6040265
+        ]
+      },
+      "properties": {
+        "osm_id": 5982533384,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Maricor's Tapsilogan",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0213344,
+          14.6039619
+        ]
+      },
+      "properties": {
+        "osm_id": 5994491047,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0231189,
+          14.6039179
+        ]
+      },
+      "properties": {
+        "osm_id": 5932954540,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Boyet's Tapsilogan",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0230367,
+          14.6038486
+        ]
+      },
+      "properties": {
+        "osm_id": 5911463264,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Dan's and Norm's Eatery",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0257393,
+          14.6036973
+        ]
+      },
+      "properties": {
+        "osm_id": 5903365742,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Mercy Bentelogan",
+        "opening_hours": "24/7",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0386414,
+          14.5963878
+        ]
+      },
+      "properties": {
+        "osm_id": 12140944464,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "La Rotisserie",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0383231,
+          14.5963437
+        ]
+      },
+      "properties": {
+        "osm_id": 12140944466,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Upper Crust",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0384029,
+          14.5983896
+        ]
+      },
+      "properties": {
+        "osm_id": 4172492628,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Soy & Bean",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.038514,
+          14.5972012
+        ]
+      },
+      "properties": {
+        "osm_id": 10547881687,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Hokkaido Ramen Bangaichi",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0380582,
+          14.596588
+        ]
+      },
+      "properties": {
+        "osm_id": 10839315248,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Acaf\u00e9",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0389198,
+          14.5954721
+        ]
+      },
+      "properties": {
+        "osm_id": 4538843596,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.039971,
+          14.5952967
+        ]
+      },
+      "properties": {
+        "osm_id": 4796461800,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Box-Out",
+        "opening_hours": "Mo-Sa 12:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0408117,
+          14.5941506
+        ]
+      },
+      "properties": {
+        "osm_id": 4550138572,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Brenda Eatery",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0407308,
+          14.5943424
+        ]
+      },
+      "properties": {
+        "osm_id": 8317062372,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Guisado",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0405703,
+          14.5946297
+        ]
+      },
+      "properties": {
+        "osm_id": 11043442654,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Bask",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0224908,
+          14.6049604
+        ]
+      },
+      "properties": {
+        "osm_id": 5826301960,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Dunkin'",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0482801,
+          14.6017152
+        ]
+      },
+      "properties": {
+        "osm_id": 12771676305,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Baking Therapy Cafe",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0324981,
+          14.5982466
+        ]
+      },
+      "properties": {
+        "osm_id": 4792499557,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Kuya Allan's Maki",
+        "opening_hours": "02:00+",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0367776,
+          14.5979002
+        ]
+      },
+      "properties": {
+        "osm_id": 3699388942,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Caf\u00e9 Sans\u00f3",
+        "opening_hours": "11:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.049641,
+          14.6000299
+        ]
+      },
+      "properties": {
+        "osm_id": 1343326348,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Oyster Boy",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0502334,
+          14.6004675
+        ]
+      },
+      "properties": {
+        "osm_id": 1271278999,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Peri-Peri",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0499865,
+          14.6005508
+        ]
+      },
+      "properties": {
+        "osm_id": 5419534846,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Mister Donuts",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.049996,
+          14.6001309
+        ]
+      },
+      "properties": {
+        "osm_id": 1343326349,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Bacolod Chicken Inasal",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0493867,
+          14.6002412
+        ]
+      },
+      "properties": {
+        "osm_id": 4306835643,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "Chivz",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0499316,
+          14.6006125
+        ]
+      },
+      "properties": {
+        "osm_id": 1343999168,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Shakey's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0505282,
+          14.6008287
+        ]
+      },
+      "properties": {
+        "osm_id": 5116715958,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Arroz Ecija",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0494079,
+          14.6009848
+        ]
+      },
+      "properties": {
+        "osm_id": 4306835646,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Chowking",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0491376,
+          14.6009785
+        ]
+      },
+      "properties": {
+        "osm_id": 6141458899,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Gringo",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0477179,
+          14.6014847
+        ]
+      },
+      "properties": {
+        "osm_id": 4800235281,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Wildflour Caf\u00e9 + Bakery",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.04793,
+          14.6014809
+        ]
+      },
+      "properties": {
+        "osm_id": 4883511010,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Mom and Tina's Bakery & Caf\u00e9",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0491956,
+          14.6011869
+        ]
+      },
+      "properties": {
+        "osm_id": 6158418827,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Tokyo Tokyo",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0507284,
+          14.6010759
+        ]
+      },
+      "properties": {
+        "osm_id": 1707927640,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Yellow Cab",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0508649,
+          14.601229
+        ]
+      },
+      "properties": {
+        "osm_id": 2576657177,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Don Henrico's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0509867,
+          14.6014861
+        ]
+      },
+      "properties": {
+        "osm_id": 11075068407,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Army Navy",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0528938,
+          14.6013851
+        ]
+      },
+      "properties": {
+        "osm_id": 2135519279,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Amici",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.054549,
+          14.6010997
+        ]
+      },
+      "properties": {
+        "osm_id": 4045337819,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Mien San",
+        "opening_hours": "Mo-Sa 11:00-23:00; Su 10:00-22:30",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0562092,
+          14.6015409
+        ]
+      },
+      "properties": {
+        "osm_id": 2135518953,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Conti's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0382014,
+          14.5983791
+        ]
+      },
+      "properties": {
+        "osm_id": 3975110892,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Country Chicken",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0384537,
+          14.5982084
+        ]
+      },
+      "properties": {
+        "osm_id": 3975110890,
+        "osm_type": "nodes",
+        "amenity": "pharmacy",
+        "tourism": null,
+        "beds": null,
+        "name": "Beijing Tong Ren Tang",
+        "opening_hours": null,
+        "shop": "herbalist",
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0379231,
+          14.5989696
+        ]
+      },
+      "properties": {
+        "osm_id": 9749157343,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Li's Kitchenette",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0382584,
+          14.5987762
+        ]
+      },
+      "properties": {
+        "osm_id": 9076050499,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "M. C. Bar",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0384352,
+          14.5963791
+        ]
+      },
+      "properties": {
+        "osm_id": 11750238959,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Tama Gogo",
+        "opening_hours": "12:00-20:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0290634,
+          14.5954211
+        ]
+      },
+      "properties": {
+        "osm_id": 7165372025,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Tapsilugan",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.028156,
+          14.5958781
+        ]
+      },
+      "properties": {
+        "osm_id": 9237243282,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Jollibee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0279015,
+          14.5974278
+        ]
+      },
+      "properties": {
+        "osm_id": 5980391711,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Mama Dad's Grill Kitchen",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0291314,
+          14.6004534
+        ]
+      },
+      "properties": {
+        "osm_id": 5204013621,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Greyson's Dimsum",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0307465,
+          14.5989228
+        ]
+      },
+      "properties": {
+        "osm_id": 5770934821,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Dexter's Pizza",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0307819,
+          14.5988474
+        ]
+      },
+      "properties": {
+        "osm_id": 5770934820,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Loose Leaf",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0296482,
+          14.5979167
+        ]
+      },
+      "properties": {
+        "osm_id": 7165372022,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "foodhub",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0315667,
+          14.5993624
+        ]
+      },
+      "properties": {
+        "osm_id": 7165372020,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0507535,
+          14.6032872
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971706,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Katsu Sora",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0379056,
+          14.5991536
+        ]
+      },
+      "properties": {
+        "osm_id": 12234837744,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Old China",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0477447,
+          14.6026171
+        ]
+      },
+      "properties": {
+        "osm_id": 5326984214,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Chooks To Go",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0403174,
+          14.6071154
+        ]
+      },
+      "properties": {
+        "osm_id": 1444105959,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Lunch Box",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0516319,
+          14.6039666
+        ]
+      },
+      "properties": {
+        "osm_id": 13073323988,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Buffet Town",
+        "opening_hours": "11:00-14:00, 17:30-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.037065,
+          14.5971913
+        ]
+      },
+      "properties": {
+        "osm_id": 12679343560,
+        "osm_type": "nodes",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "Oista",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0490649,
+          14.6017115
+        ]
+      },
+      "properties": {
+        "osm_id": 12278110577,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Chow Dynasty",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0279675,
+          14.5955649
+        ]
+      },
+      "properties": {
+        "osm_id": 12295737676,
+        "osm_type": "nodes",
+        "amenity": "post_office",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su 09:00-16:30",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0338784,
+          14.6042154
+        ]
+      },
+      "properties": {
+        "osm_id": 12827349643,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Mama Empanada",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0338913,
+          14.6042139
+        ]
+      },
+      "properties": {
+        "osm_id": 12827349646,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Golden Chopsticks",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0481308,
+          14.6012255
+        ]
+      },
+      "properties": {
+        "osm_id": 12771673586,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Marugame Udon",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0378093,
+          14.598455
+        ]
+      },
+      "properties": {
+        "osm_id": 12174512308,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Cole & Co. Studio Caf\u00e9",
+        "opening_hours": "08:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0381065,
+          14.5987514
+        ]
+      },
+      "properties": {
+        "osm_id": 6848940827,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Grounds & Sounds",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0529244,
+          14.6017445
+        ]
+      },
+      "properties": {
+        "osm_id": 1707927635,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Chili's",
+        "opening_hours": "Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-24:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0529427,
+          14.6018768
+        ]
+      },
+      "properties": {
+        "osm_id": 1707927638,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Starbucks",
+        "opening_hours": "06:30-24:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0370141,
+          14.5972715
+        ]
+      },
+      "properties": {
+        "osm_id": 8892107684,
+        "osm_type": "nodes",
+        "amenity": "pub",
+        "tourism": null,
+        "beds": null,
+        "name": "El Dep\u00f3sito Brewery",
+        "opening_hours": "Mo-Fr 15:00-22:00;Sa, Su 11:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.033584,
+          14.6044036
+        ]
+      },
+      "properties": {
+        "osm_id": 9657495667,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Merienda by Pan de Manila",
+        "opening_hours": "Mo-Su 06:00 - 22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0406195,
+          14.5998602
+        ]
+      },
+      "properties": {
+        "osm_id": 10091501055,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Hilera Caf\u00e9",
+        "opening_hours": "Mo-Tu off; We-Fr 12:30-20:30; Sa-Su 11:30-20:30",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.037649,
+          14.5929579
+        ]
+      },
+      "properties": {
+        "osm_id": 4326857081,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Vegefoods",
+        "opening_hours": "Mo-Su 07:30-17:30",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0502879,
+          14.6005461
+        ]
+      },
+      "properties": {
+        "osm_id": 1707927639,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Subway",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0507829,
+          14.6018216
+        ]
+      },
+      "properties": {
+        "osm_id": 9559748502,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Black Scoop Caf\u00e9",
+        "opening_hours": "Mo-Th 10:00-21:00; Fr-Su 10:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.048201,
+          14.6091424
+        ]
+      },
+      "properties": {
+        "osm_id": 12309256003,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Jollibee",
+        "opening_hours": "24/7",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0482558,
+          14.6017409
+        ]
+      },
+      "properties": {
+        "osm_id": 11518528378,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Hoshino Coffee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0475955,
+          14.6015548
+        ]
+      },
+      "properties": {
+        "osm_id": 4883511009,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Starbucks",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0551509,
+          14.6051287
+        ]
+      },
+      "properties": {
+        "osm_id": 255065644,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Choi Garden",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0517077,
+          14.6040418
+        ]
+      },
+      "properties": {
+        "osm_id": 6350184756,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Greenhills Uno Seafood Palace",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0492896,
+          14.6011199
+        ]
+      },
+      "properties": {
+        "osm_id": 1270332435,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Brothers Burger",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0515423,
+          14.6033025
+        ]
+      },
+      "properties": {
+        "osm_id": 1270332426,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "The Coffee Bean & Tea Leaf",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0476642,
+          14.6024224
+        ]
+      },
+      "properties": {
+        "osm_id": 11518590472,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Luk Yuen",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0303091,
+          14.6035082
+        ]
+      },
+      "properties": {
+        "osm_id": 12389400010,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Ern's Kainan",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0341213,
+          14.6023152
+        ]
+      },
+      "properties": {
+        "osm_id": 5419532818,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Bugis",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0324186,
+          14.6053778
+        ]
+      },
+      "properties": {
+        "osm_id": 7217619682,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Brothers' Burger",
+        "opening_hours": "10:00-20:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0246957,
+          14.6102173
+        ]
+      },
+      "properties": {
+        "osm_id": 6984095294,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Dolora's Hauz of Pancit Malabon",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0230234,
+          14.6052447
+        ]
+      },
+      "properties": {
+        "osm_id": 2934976513,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "McDonald's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0257755,
+          14.6036779
+        ]
+      },
+      "properties": {
+        "osm_id": 5903365741,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Carmen Eatery",
+        "opening_hours": "08:30-12:30,15:30-20:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0282921,
+          14.5989422
+        ]
+      },
+      "properties": {
+        "osm_id": 12247578836,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Eng Bee Tin",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0339125,
+          14.5935173
+        ]
+      },
+      "properties": {
+        "osm_id": 12399920548,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Lobby 385",
+        "opening_hours": "Mo-We,Su 11:00-23:00; Th-Sa 11:00-01:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0297868,
+          14.598157
+        ]
+      },
+      "properties": {
+        "osm_id": 12247594228,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Real Fruit Bubble Tea",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0343807,
+          14.5982109
+        ]
+      },
+      "properties": {
+        "osm_id": 6011498238,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Food Hub",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0377337,
+          14.5979858
+        ]
+      },
+      "properties": {
+        "osm_id": 11830380382,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Hello, Coffee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.038318,
+          14.5963914
+        ]
+      },
+      "properties": {
+        "osm_id": 11750265655,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Tajimaya",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr-Su 11:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0457807,
+          14.5978791
+        ]
+      },
+      "properties": {
+        "osm_id": 4529897124,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Seattle's Best Coffee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0370333,
+          14.5973806
+        ]
+      },
+      "properties": {
+        "osm_id": 5598749662,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Flossom Kitchen + Caf\u00e9",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0462133,
+          14.5980338
+        ]
+      },
+      "properties": {
+        "osm_id": 3111387699,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Cafe France",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0384723,
+          14.5971416
+        ]
+      },
+      "properties": {
+        "osm_id": 3658557657,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Ph\u1edf H\u00f2a",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0385709,
+          14.6040258
+        ]
+      },
+      "properties": {
+        "osm_id": 5555472349,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Maria Maria",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0411021,
+          14.5975442
+        ]
+      },
+      "properties": {
+        "osm_id": 12908903248,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Pat-pat's Kansi",
+        "opening_hours": "Mo-Fr 10:00-21:00; Sa-Su 10:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0372473,
+          14.5968892
+        ]
+      },
+      "properties": {
+        "osm_id": 12578405029,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Grand House",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0507453,
+          14.6032122
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971703,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Hokkaido Ramen Santouka",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0489187,
+          14.6017785
+        ]
+      },
+      "properties": {
+        "osm_id": 12278110581,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Sen-ryo",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0488715,
+          14.601806
+        ]
+      },
+      "properties": {
+        "osm_id": 12278110582,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Cibo",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0496974,
+          14.6014901
+        ]
+      },
+      "properties": {
+        "osm_id": 12243848129,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Mesa",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0483607,
+          14.6013635
+        ]
+      },
+      "properties": {
+        "osm_id": 11518441543,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Crosta",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.048043,
+          14.6015586
+        ]
+      },
+      "properties": {
+        "osm_id": 11743266128,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Lugang Caf\u00e9",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0527899,
+          14.6024543
+        ]
+      },
+      "properties": {
+        "osm_id": 7036736237,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Agico Caf\u00e9",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0509315,
+          14.6014135
+        ]
+      },
+      "properties": {
+        "osm_id": 4994164521,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "CoCo Ichibanya",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0548822,
+          14.6011517
+        ]
+      },
+      "properties": {
+        "osm_id": 10170679275,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Angels Kitchen",
+        "opening_hours": "Tu-Su 08:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0521898,
+          14.6027264
+        ]
+      },
+      "properties": {
+        "osm_id": 3258971705,
+        "osm_type": "nodes",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Mary Grace Cafe",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0508651,
+          14.6026772
+        ]
+      },
+      "properties": {
+        "osm_id": 1271279003,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Classic Savory",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0517655,
+          14.6040327
+        ]
+      },
+      "properties": {
+        "osm_id": 13073323987,
+        "osm_type": "nodes",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Founders Donuts",
+        "opening_hours": "08:00-20:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0379761,
+          14.5973819
+        ]
+      },
+      "properties": {
+        "osm_id": 3610397249,
+        "osm_type": "nodes",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Tung Lo Wan's Food Express",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0340421,
+              14.6047162
+            ],
+            [
+              121.0341637,
+              14.604709
+            ],
+            [
+              121.0341689,
+              14.6047933
+            ],
+            [
+              121.0342024,
+              14.6047914
+            ],
+            [
+              121.034209,
+              14.6048966
+            ],
+            [
+              121.0340923,
+              14.6049035
+            ],
+            [
+              121.0340873,
+              14.6048242
+            ],
+            [
+              121.034049,
+              14.6048264
+            ],
+            [
+              121.0340421,
+              14.6047162
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 581457168,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Alta by Relik",
+        "opening_hours": "08:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0376944,
+              14.6006314
+            ],
+            [
+              121.0378194,
+              14.6005325
+            ],
+            [
+              121.0379204,
+              14.6006522
+            ],
+            [
+              121.0377954,
+              14.600751
+            ],
+            [
+              121.0376944,
+              14.6006314
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 116914991,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Mann Hann",
+        "opening_hours": "11:00-23:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0514932,
+              14.6021156
+            ],
+            [
+              121.0516327,
+              14.6020134
+            ],
+            [
+              121.0517108,
+              14.6021131
+            ],
+            [
+              121.0515712,
+              14.6022154
+            ],
+            [
+              121.0514932,
+              14.6021156
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 319270977,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Krispy Kreme",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0434772,
+              14.6044807
+            ],
+            [
+              121.0435076,
+              14.6044572
+            ],
+            [
+              121.0435752,
+              14.6045392
+            ],
+            [
+              121.0435448,
+              14.6045627
+            ],
+            [
+              121.0434772,
+              14.6044807
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 253920121,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Mang Tonyo's Grill",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.02218,
+              14.6052391
+            ],
+            [
+              121.0222062,
+              14.6052021
+            ],
+            [
+              121.0222164,
+              14.6052089
+            ],
+            [
+              121.0221903,
+              14.6052459
+            ],
+            [
+              121.02218,
+              14.6052391
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 630218731,
+        "osm_type": "ways_poly",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0222142,
+              14.6051677
+            ],
+            [
+              121.0222464,
+              14.605121
+            ],
+            [
+              121.0222585,
+              14.6051288
+            ],
+            [
+              121.0222263,
+              14.6051755
+            ],
+            [
+              121.0222142,
+              14.6051677
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 630218732,
+        "osm_type": "ways_poly",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0508841,
+              14.6070502
+            ],
+            [
+              121.0509132,
+              14.6069716
+            ],
+            [
+              121.0509785,
+              14.6069942
+            ],
+            [
+              121.0509494,
+              14.6070728
+            ],
+            [
+              121.0508841,
+              14.6070502
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 538536875,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0290203,
+              14.6092949
+            ],
+            [
+              121.0290999,
+              14.6091989
+            ],
+            [
+              121.0292075,
+              14.6092825
+            ],
+            [
+              121.029128,
+              14.6093785
+            ],
+            [
+              121.0290203,
+              14.6092949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 478754660,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Savory Restaurant",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0339804,
+              14.6075601
+            ],
+            [
+              121.034256,
+              14.6073629
+            ],
+            [
+              121.0344907,
+              14.6076231
+            ],
+            [
+              121.0344854,
+              14.6076762
+            ],
+            [
+              121.0341896,
+              14.6078741
+            ],
+            [
+              121.0339804,
+              14.6075601
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 894768879,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": "11:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0523658,
+              14.6039662
+            ],
+            [
+              121.052416,
+              14.6038585
+            ],
+            [
+              121.0526088,
+              14.6039426
+            ],
+            [
+              121.0525586,
+              14.6040503
+            ],
+            [
+              121.0523658,
+              14.6039662
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 217398008,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Chowking",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.037485,
+              14.5985062
+            ],
+            [
+              121.0376029,
+              14.5983191
+            ],
+            [
+              121.0377546,
+              14.5983735
+            ],
+            [
+              121.0376647,
+              14.5985967
+            ],
+            [
+              121.037485,
+              14.5985062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 454207935,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "North Park",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0394525,
+              14.5954884
+            ],
+            [
+              121.0395359,
+              14.5953472
+            ],
+            [
+              121.0397117,
+              14.5954445
+            ],
+            [
+              121.0396283,
+              14.5955856
+            ],
+            [
+              121.0394525,
+              14.5954884
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 357084149,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "L\u014dla",
+        "opening_hours": "Mo-Th,Su 08:00-23:00; Fr-Sa 08:00-24:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0395032,
+              14.5976002
+            ],
+            [
+              121.0396,
+              14.5976
+            ],
+            [
+              121.0396063,
+              14.5977713
+            ],
+            [
+              121.0395651,
+              14.5977784
+            ],
+            [
+              121.0395671,
+              14.5978154
+            ],
+            [
+              121.0395122,
+              14.5978168
+            ],
+            [
+              121.0395032,
+              14.5976002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 153733804,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Behrouz",
+        "opening_hours": "11:00-05:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.038285,
+              14.5976031
+            ],
+            [
+              121.0383142,
+              14.5974305
+            ],
+            [
+              121.0384314,
+              14.597449
+            ],
+            [
+              121.0384022,
+              14.5976217
+            ],
+            [
+              121.038285,
+              14.5976031
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 153733790,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Alex \u2162 Restuarant",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0390096,
+              14.5968582
+            ],
+            [
+              121.0390446,
+              14.5967523
+            ],
+            [
+              121.0391949,
+              14.5967988
+            ],
+            [
+              121.0391599,
+              14.5969047
+            ],
+            [
+              121.0390096,
+              14.5968582
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 661349824,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Dymsum Factory",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.051975,
+              14.6023213
+            ],
+            [
+              121.0519796,
+              14.6022781
+            ],
+            [
+              121.0520135,
+              14.6022304
+            ],
+            [
+              121.0519827,
+              14.602214
+            ],
+            [
+              121.0520196,
+              14.6021603
+            ],
+            [
+              121.0520551,
+              14.6021722
+            ],
+            [
+              121.052072,
+              14.6021394
+            ],
+            [
+              121.0521059,
+              14.6021558
+            ],
+            [
+              121.052129,
+              14.6021275
+            ],
+            [
+              121.0521552,
+              14.6021141
+            ],
+            [
+              121.0521937,
+              14.6021022
+            ],
+            [
+              121.0523755,
+              14.6021812
+            ],
+            [
+              121.0525507,
+              14.6021893
+            ],
+            [
+              121.052585,
+              14.6021912
+            ],
+            [
+              121.0525084,
+              14.6023546
+            ],
+            [
+              121.0524784,
+              14.6024187
+            ],
+            [
+              121.0524825,
+              14.6024543
+            ],
+            [
+              121.052474,
+              14.6024892
+            ],
+            [
+              121.0524538,
+              14.6025193
+            ],
+            [
+              121.0524243,
+              14.602541
+            ],
+            [
+              121.0523912,
+              14.6025515
+            ],
+            [
+              121.0523564,
+              14.6025513
+            ],
+            [
+              121.0523235,
+              14.6025404
+            ],
+            [
+              121.0522958,
+              14.60252
+            ],
+            [
+              121.0522763,
+              14.6024921
+            ],
+            [
+              121.0522669,
+              14.6024597
+            ],
+            [
+              121.052032,
+              14.6023884
+            ],
+            [
+              121.0519904,
+              14.6023541
+            ],
+            [
+              121.051975,
+              14.6023213
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 1241234921,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Gloria Maris",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.053101,
+              14.6012623
+            ],
+            [
+              121.0533428,
+              14.6012228
+            ],
+            [
+              121.0533954,
+              14.6015238
+            ],
+            [
+              121.0531536,
+              14.6015634
+            ],
+            [
+              121.053101,
+              14.6012623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 566869252,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Burger King",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0521035,
+              14.6038687
+            ],
+            [
+              121.0521704,
+              14.6037251
+            ],
+            [
+              121.0523568,
+              14.6038064
+            ],
+            [
+              121.0522899,
+              14.60395
+            ],
+            [
+              121.0521035,
+              14.6038687
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 243530588,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Jollibee",
+        "opening_hours": "24/7",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0561114,
+              14.605763
+            ],
+            [
+              121.0562558,
+              14.6054452
+            ],
+            [
+              121.0564886,
+              14.6055443
+            ],
+            [
+              121.0563442,
+              14.605862
+            ],
+            [
+              121.0561114,
+              14.605763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 1422180931,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Ich\u014d Restaurant",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0280274,
+              14.5958689
+            ],
+            [
+              121.0281631,
+              14.5957412
+            ],
+            [
+              121.0281828,
+              14.5957328
+            ],
+            [
+              121.028205,
+              14.5957364
+            ],
+            [
+              121.0282914,
+              14.5958235
+            ],
+            [
+              121.0281384,
+              14.5959691
+            ],
+            [
+              121.0280274,
+              14.5958689
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 379381752,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Jollibee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.027865,
+              14.5960292
+            ],
+            [
+              121.02792,
+              14.5959748
+            ],
+            [
+              121.0280244,
+              14.5960737
+            ],
+            [
+              121.0279694,
+              14.5961281
+            ],
+            [
+              121.027865,
+              14.5960292
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 358288315,
+        "osm_type": "ways_poly",
+        "amenity": "marketplace",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0279743,
+              14.5959738
+            ],
+            [
+              121.0280059,
+              14.5959426
+            ],
+            [
+              121.0280431,
+              14.5959778
+            ],
+            [
+              121.0280115,
+              14.596009
+            ],
+            [
+              121.0279743,
+              14.5959738
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 358288303,
+        "osm_type": "ways_poly",
+        "amenity": "marketplace",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0215524,
+              14.6040451
+            ],
+            [
+              121.0216093,
+              14.6040011
+            ],
+            [
+              121.0216415,
+              14.60404
+            ],
+            [
+              121.0215846,
+              14.6040841
+            ],
+            [
+              121.0215524,
+              14.6040451
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 635475103,
+        "osm_type": "ways_poly",
+        "amenity": "biergarten",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": "convenience",
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0512926,
+              14.6018718
+            ],
+            [
+              121.0515543,
+              14.6016722
+            ],
+            [
+              121.0516789,
+              14.6018251
+            ],
+            [
+              121.0514172,
+              14.6020247
+            ],
+            [
+              121.0512926,
+              14.6018718
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 319270979,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "McDonald's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0392949,
+              14.5972594
+            ],
+            [
+              121.0393428,
+              14.5971256
+            ],
+            [
+              121.0394794,
+              14.5971714
+            ],
+            [
+              121.0394315,
+              14.5973052
+            ],
+            [
+              121.0393674,
+              14.5972837
+            ],
+            [
+              121.0392949,
+              14.5972594
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 153733798,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Jollibee",
+        "opening_hours": "24/7",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0382727,
+              14.5971646
+            ],
+            [
+              121.0383361,
+              14.5969916
+            ],
+            [
+              121.0384483,
+              14.5970301
+            ],
+            [
+              121.0383849,
+              14.5972031
+            ],
+            [
+              121.0382727,
+              14.5971646
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 153733780,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Emperor's Tea House",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0322788,
+              14.5962799
+            ],
+            [
+              121.0323111,
+              14.5962471
+            ],
+            [
+              121.0323406,
+              14.5962661
+            ],
+            [
+              121.0323517,
+              14.5962733
+            ],
+            [
+              121.0324488,
+              14.5961383
+            ],
+            [
+              121.0324801,
+              14.5961593
+            ],
+            [
+              121.0325804,
+              14.5960197
+            ],
+            [
+              121.0325797,
+              14.5960201
+            ],
+            [
+              121.0325566,
+              14.5959747
+            ],
+            [
+              121.032561,
+              14.5959569
+            ],
+            [
+              121.0325735,
+              14.595942
+            ],
+            [
+              121.032593,
+              14.5959417
+            ],
+            [
+              121.032612,
+              14.5959483
+            ],
+            [
+              121.0326263,
+              14.5959765
+            ],
+            [
+              121.0326573,
+              14.5959973
+            ],
+            [
+              121.0327044,
+              14.5959318
+            ],
+            [
+              121.0327468,
+              14.5959603
+            ],
+            [
+              121.0327575,
+              14.5959454
+            ],
+            [
+              121.0327659,
+              14.5959337
+            ],
+            [
+              121.0328322,
+              14.5959783
+            ],
+            [
+              121.0328227,
+              14.5959916
+            ],
+            [
+              121.0328131,
+              14.5960049
+            ],
+            [
+              121.032855,
+              14.5960332
+            ],
+            [
+              121.0328079,
+              14.5960987
+            ],
+            [
+              121.0328342,
+              14.5961163
+            ],
+            [
+              121.032831,
+              14.5961208
+            ],
+            [
+              121.0328584,
+              14.5961265
+            ],
+            [
+              121.0328707,
+              14.5961373
+            ],
+            [
+              121.0328744,
+              14.5961552
+            ],
+            [
+              121.0328644,
+              14.5961702
+            ],
+            [
+              121.0328465,
+              14.5961807
+            ],
+            [
+              121.0327955,
+              14.5961702
+            ],
+            [
+              121.0326979,
+              14.5963059
+            ],
+            [
+              121.0327279,
+              14.5963261
+            ],
+            [
+              121.0326296,
+              14.596463
+            ],
+            [
+              121.0325786,
+              14.5964287
+            ],
+            [
+              121.0325584,
+              14.5964568
+            ],
+            [
+              121.0325209,
+              14.5964315
+            ],
+            [
+              121.0325041,
+              14.5964418
+            ],
+            [
+              121.032484,
+              14.5964451
+            ],
+            [
+              121.0324617,
+              14.5964428
+            ],
+            [
+              121.0324384,
+              14.5964332
+            ],
+            [
+              121.0324218,
+              14.5964195
+            ],
+            [
+              121.0324095,
+              14.5964019
+            ],
+            [
+              121.0324025,
+              14.5963804
+            ],
+            [
+              121.0324023,
+              14.5963517
+            ],
+            [
+              121.0323972,
+              14.5963587
+            ],
+            [
+              121.0323147,
+              14.5963038
+            ],
+            [
+              121.0322788,
+              14.5962799
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 358286009,
+        "osm_type": "ways_poly",
+        "amenity": "place_of_worship",
+        "tourism": "yes",
+        "beds": null,
+        "name": "Lokal ng F. Manalo",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0339663,
+              14.6045089
+            ],
+            [
+              121.0340551,
+              14.6045028
+            ],
+            [
+              121.0340565,
+              14.6045216
+            ],
+            [
+              121.0341674,
+              14.604514
+            ],
+            [
+              121.0341763,
+              14.6046346
+            ],
+            [
+              121.0340504,
+              14.6046433
+            ],
+            [
+              121.0340476,
+              14.6046052
+            ],
+            [
+              121.0339738,
+              14.6046103
+            ],
+            [
+              121.0339663,
+              14.6045089
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 581457160,
+        "osm_type": "ways_poly",
+        "amenity": "bar",
+        "tourism": null,
+        "beds": null,
+        "name": "Barcino",
+        "opening_hours": "Su-We 11:00-01:00; Th-Sa 11:00-02:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0338101,
+              14.6047555
+            ],
+            [
+              121.0339251,
+              14.6047467
+            ],
+            [
+              121.0339317,
+              14.6048277
+            ],
+            [
+              121.0339928,
+              14.604823
+            ],
+            [
+              121.0340028,
+              14.6049444
+            ],
+            [
+              121.0338717,
+              14.6049545
+            ],
+            [
+              121.0338639,
+              14.6048596
+            ],
+            [
+              121.0338189,
+              14.604863
+            ],
+            [
+              121.0338101,
+              14.6047555
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 581457169,
+        "osm_type": "ways_poly",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Starbucks",
+        "opening_hours": "07:00-24:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0337954,
+              14.6045282
+            ],
+            [
+              121.0339097,
+              14.6045217
+            ],
+            [
+              121.0339161,
+              14.6046282
+            ],
+            [
+              121.0338019,
+              14.6046347
+            ],
+            [
+              121.0337954,
+              14.6045282
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 1050699979,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "UCC Caf\u00e9. Terrace",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0384436,
+              14.5925678
+            ],
+            [
+              121.0385358,
+              14.5925534
+            ],
+            [
+              121.0385673,
+              14.5927425
+            ],
+            [
+              121.0384751,
+              14.5927569
+            ],
+            [
+              121.0384436,
+              14.5925678
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 460351313,
+        "osm_type": "ways_poly",
+        "amenity": "cafe",
+        "tourism": null,
+        "beds": null,
+        "name": "Verse Cafe 3:16",
+        "opening_hours": "07:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0409915,
+              14.5929527
+            ],
+            [
+              121.0410362,
+              14.5928211
+            ],
+            [
+              121.0411976,
+              14.5928724
+            ],
+            [
+              121.0411529,
+              14.593004
+            ],
+            [
+              121.0409915,
+              14.5929527
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 357082074,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Francesco's Kitchen",
+        "opening_hours": "PH,Mo-Su 11:00-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0384013,
+              14.5924347
+            ],
+            [
+              121.0384467,
+              14.5924295
+            ],
+            [
+              121.0384438,
+              14.5924057
+            ],
+            [
+              121.0384646,
+              14.5924033
+            ],
+            [
+              121.0384894,
+              14.5924005
+            ],
+            [
+              121.0384927,
+              14.5924279
+            ],
+            [
+              121.0385422,
+              14.5924222
+            ],
+            [
+              121.0385536,
+              14.5925156
+            ],
+            [
+              121.0387311,
+              14.5924953
+            ],
+            [
+              121.0387569,
+              14.5927063
+            ],
+            [
+              121.0386386,
+              14.5927198
+            ],
+            [
+              121.0386161,
+              14.5925359
+            ],
+            [
+              121.0384165,
+              14.5925588
+            ],
+            [
+              121.0384013,
+              14.5924347
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 357082086,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Tomo Japanese Dining",
+        "opening_hours": "11:00-14:30,17:30-22:00",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0232501,
+              14.6061924
+            ],
+            [
+              121.0233852,
+              14.6060322
+            ],
+            [
+              121.023469,
+              14.6060983
+            ],
+            [
+              121.023334,
+              14.6062585
+            ],
+            [
+              121.0232501,
+              14.6061924
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 255989052,
+        "osm_type": "ways_poly",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Jollibee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0232097,
+              14.6079324
+            ],
+            [
+              121.0232611,
+              14.6078135
+            ],
+            [
+              121.0234254,
+              14.6078799
+            ],
+            [
+              121.023412,
+              14.607911
+            ],
+            [
+              121.0234437,
+              14.6079238
+            ],
+            [
+              121.023423,
+              14.6079717
+            ],
+            [
+              121.0233913,
+              14.6079589
+            ],
+            [
+              121.0233776,
+              14.6079906
+            ],
+            [
+              121.0233366,
+              14.607974
+            ],
+            [
+              121.0233331,
+              14.6079823
+            ],
+            [
+              121.0232097,
+              14.6079324
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 311072232,
+        "osm_type": "ways_poly",
+        "amenity": "townhall",
+        "tourism": null,
+        "beds": null,
+        "name": "Balong Bato Barangay Hall",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.022686,
+              14.6048207
+            ],
+            [
+              121.0229976,
+              14.6046677
+            ],
+            [
+              121.023169,
+              14.604582
+            ],
+            [
+              121.0239806,
+              14.6056597
+            ],
+            [
+              121.0239292,
+              14.6056941
+            ],
+            [
+              121.023526,
+              14.6059315
+            ],
+            [
+              121.0231504,
+              14.6054493
+            ],
+            [
+              121.022686,
+              14.6048207
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 171771158,
+        "osm_type": "ways_poly",
+        "amenity": "marketplace",
+        "tourism": null,
+        "beds": null,
+        "name": "Agora Public Market",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.022298,
+              14.6046901
+            ],
+            [
+              121.0223393,
+              14.6046611
+            ],
+            [
+              121.0223607,
+              14.6046897
+            ],
+            [
+              121.0223195,
+              14.6047187
+            ],
+            [
+              121.022298,
+              14.6046901
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 635459332,
+        "osm_type": "ways_poly",
+        "amenity": "bbq",
+        "tourism": null,
+        "beds": null,
+        "name": null,
+        "opening_hours": null,
+        "shop": "convenience",
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0335953,
+              14.5933291
+            ],
+            [
+              121.0336723,
+              14.5931422
+            ],
+            [
+              121.0338445,
+              14.5932086
+            ],
+            [
+              121.0337675,
+              14.5933956
+            ],
+            [
+              121.0336854,
+              14.5933639
+            ],
+            [
+              121.0335953,
+              14.5933291
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 355454562,
+        "osm_type": "ways_poly",
+        "amenity": "restaurant",
+        "tourism": null,
+        "beds": null,
+        "name": "Guevarra's by Chef Laudico",
+        "opening_hours": "Mo-Fr 11:00-14:00,14:30-16:30,17:00-19:00,19:30-22:30; Sa-Su 07:30-10:00,11:00-14:00,14:30-16:30,17:00-19:00,19:30-22:30",
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.0323256,
+              14.6042074
+            ],
+            [
+              121.0324938,
+              14.6038751
+            ],
+            [
+              121.0325319,
+              14.603895
+            ],
+            [
+              121.0326297,
+              14.6036947
+            ],
+            [
+              121.0327944,
+              14.6039392
+            ],
+            [
+              121.0325722,
+              14.6042834
+            ],
+            [
+              121.0325474,
+              14.6042967
+            ],
+            [
+              121.0325217,
+              14.6043022
+            ],
+            [
+              121.0323256,
+              14.6042074
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 17049490,
+        "osm_type": "relations",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "McDonald's",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.032208,
+              14.6041498
+            ],
+            [
+              121.0323743,
+              14.6038203
+            ],
+            [
+              121.0324938,
+              14.6038751
+            ],
+            [
+              121.0323256,
+              14.6042074
+            ],
+            [
+              121.032208,
+              14.6041498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 17049492,
+        "osm_type": "relations",
+        "amenity": "fast_food",
+        "tourism": null,
+        "beds": null,
+        "name": "Jollibee",
+        "opening_hours": null,
+        "shop": null,
+        "rooms": null
+      }
+    }
+  ]
+}
