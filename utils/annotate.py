@@ -4,6 +4,40 @@ import json
 BASE_DIR = "utils/geojson"
 ASSIGNED_CITIES = ["Paranaque"]
 
+import difflib
+
+
+def filter_similar_amenities(amenities, cutoff=0.85):
+    """
+    Removes duplicates and groups similar amenities.
+    Returns a cleaned list while preserving unique values.
+    """
+    normalized = {}
+    for a in amenities:
+        key = a.strip().lower()
+        if key not in normalized:
+            normalized[key] = a  # keep original casing of first occurrence
+
+    cleaned = []
+    seen = set()
+
+    for item in normalized.values():
+        if item in seen:
+            continue
+
+        # Find similar matches in the remaining list
+        matches = difflib.get_close_matches(item, normalized.values(), cutoff=cutoff)
+
+        # Pick the first as representative
+        rep = matches[0]
+        cleaned.append(rep)
+        seen.update(matches)
+
+        if len(matches) > 1:
+            print(f"ℹ️ Grouped similar amenities: {matches} → kept '{rep}'")
+
+    return sorted(cleaned)
+
 
 def load_all_amenities(base_dir):
     """Load amenities from all amenities.txt files under geojson/"""
@@ -18,7 +52,9 @@ def load_all_amenities(base_dir):
                         line = line.strip()
                         if line:
                             all_amenities.add(line)
-    return sorted(all_amenities)
+
+    # 🔹 Apply filtering
+    return filter_similar_amenities(sorted(all_amenities))
 
 
 def process_geojson(geojson_path, all_amenities):
