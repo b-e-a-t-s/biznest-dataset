@@ -1,9 +1,0 @@
-bar
-cafe
-fast_food
-love_hotel
-marketplace
-pharmacy
-restaurant
-social_facility
-townhall
